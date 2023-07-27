@@ -1,0 +1,17 @@
+{
+	"name": "eslint-plugin-import-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "eslint ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"eslint": "^8.45.0",
+		"eslint-plugin-import": "^2.27.5"
+	}
+}
